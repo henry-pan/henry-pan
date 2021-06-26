@@ -6,7 +6,7 @@
 
 🌱 Currently learning / honing my skills in React and React Hooks
 
-🎨 Non-development interests include game design, worldbuilding, writing, and digital art
+🎨 My non-dev interests include game design, worldbuilding, writing, and digital art
 
 <!--
 **henry-pan/henry-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
