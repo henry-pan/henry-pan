@@ -2,9 +2,9 @@
 
 🖥 I'm a software engineer and indie game developer ([Studio Xehryn](https://www.xehryn.com/))
 
-🛠 I'm currently working on a full-stack SoundCloud clone, [SonusStratos](https://github.com/henry-pan/SonusStratos), and a JavaScript game called [Resonator](https://github.com/henry-pan/Resonator)
+🛠 I'm currently working on a full-stack SoundCloud clone, [SonusStratos](https://github.com/henry-pan/SonusStratos)
 
-🌱 Currently learning / honing my skills in TypeScript and React Hooks
+🌱 Currently learning and honing my skills in TypeScript and React Hooks
 
 🎨 My non-dev interests include game design, worldbuilding, writing, and digital art
 
