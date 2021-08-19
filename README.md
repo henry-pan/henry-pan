@@ -2,7 +2,7 @@
 
 🖥 I'm a software engineer and indie game developer ([Studio Xehryn](https://www.xehryn.com/))
 
-🛠 I'm currently working on a remake of my game, [Gate of Providence](https://www.xehryn.com/gop/)
+🛠 I'm currently working on new portfolio site
 
 🌱 Currently learning and honing my skills in TypeScript and React Hooks
 
