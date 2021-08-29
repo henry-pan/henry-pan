@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Henry
 
-🖥 I'm a software engineer and indie game developer ([Studio Xehryn](https://www.xehryn.com/))
+🖥 I'm a full stack software engineer and indie game developer (check out my work at [Studio Xehryn](https://www.xehryn.com/)!)
 
-🛠 I'm currently working on a remake of my game, [Gate of Providence](https://www.xehryn.com/gop/)
+🛠 I'm currently working on an untitled RPG project
 
-🌱 Currently learning and honing my skills in TypeScript and React Hooks
+🌱 Currently learning and honing my skills in React Hooks and TypeScript
 
 <!--
 **henry-pan/henry-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
