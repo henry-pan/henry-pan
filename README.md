@@ -4,8 +4,6 @@
 
 💼 I'm currently seeking a full time Software Engineer role (Full Stack, Front End, Back End)
 
-🛠 I'm currently working on an untitled RPG project
-
 🌱 Currently learning and honing my skills in React Hooks and TypeScript
 
 <!--
