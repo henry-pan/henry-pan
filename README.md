@@ -2,9 +2,7 @@
 
 🖥 I'm a full stack software engineer and indie game developer (check out my work at [Studio Xehryn](https://www.xehryn.com/)!)
 
-💼 I'm currently seeking a full time Software Engineer role (Full Stack, Front End, Back End)
-
-🌱 Currently learning and honing my skills in React Hooks and TypeScript
+💼 Currently working on a new game project!
 
 <!--
 **henry-pan/henry-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
